@@ -1,0 +1,7 @@
+{
+  "name": "fireIon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
